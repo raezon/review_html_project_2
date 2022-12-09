@@ -57,17 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Portfolio Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Repository for building a personal portfolio based on anlready figma ui design.
 
-**[your_project__name]** is a...
+**portfolio_microverse** is a portfolio
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> We use html,css(flexbox,grid) to convert ui from figma to html,css.
 
 <details>
   <summary>Client</summary>
@@ -96,9 +96,10 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[]**
+- **[]**
+- **[]**
+- **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,31 +133,25 @@ Example command:
 ```
  -->
 
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/raezon/portfolio-microverse.git
+  npm i
 ```
---->
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
+Linters command to check html:
 
 ```sh
-  cd my-project
-  gem install
+  npx hint .
 ```
---->
+
+Linters command to check css:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
 
 ### Usage
 
@@ -200,19 +195,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+> ammar djebabla
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/raezon)
+- Twitter: [@twitterhandle](https://www.linkedin.com/in/ammar-djebabla-519030190/)
+- LinkedIn: [LinkedIn](https://twitter.com/raezon_dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,9 +211,10 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] ****
+- [ ] ****
+- [ ] ****
+- [ ] ****
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

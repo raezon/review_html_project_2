@@ -1,0 +1,6 @@
+blockquote {
+  max-width: 550px;
+  margin: 0 auto 10px auto;
+  font-style: italic;
+  text-align: left;
+}
