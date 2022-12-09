@@ -1,0 +1,7 @@
+@import url('./font.css');
+/** personalised css**/
+@import url('./body.css');
+@import url('./title.css');
+@import url('./hero.css');
+@import url('./content.css');
+@import url('./bloquote.css');
